@@ -4,6 +4,7 @@ title: "Parker Weng, Launches Site"
 date: 2017-08-01
 ---
 Technology, e-commerce, and social media
+
 [PayPal 聯合創始人將創立新基金，SpaceX 可能是重點投資項目](http://finance.technews.tw/2017/07/31/paypal-co-founder-luke-nosek-leaving-founders-fund-reportedly-for-spacex-focused-fund/)
 
 [流媒體已死？Spotify 付費用戶已達6000萬，用行動打質疑者的臉](https://www.hksilicon.com/articles/1392288)
