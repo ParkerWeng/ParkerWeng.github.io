@@ -3,13 +3,13 @@ layout: post
 title: "Parker Weng, Launches Site"
 date: 2017-08-01
 ---
-Technology, e-commerce, and social media
+Technology, E-commerce, and Social media
 
 [PayPal 聯合創始人將創立新基金，SpaceX 可能是重點投資項目](http://finance.technews.tw/2017/07/31/paypal-co-founder-luke-nosek-leaving-founders-fund-reportedly-for-spacex-focused-fund/)
 
 [流媒體已死？Spotify 付費用戶已達6000萬，用行動打質疑者的臉](https://www.hksilicon.com/articles/1392288)
 
-AI, big data
+AI, Big data
 
 [台灣想發展 AI，卻忽略了這件事：沒有軟體與數據文化，硬體優勢甚至成了絆腳石](https://buzzorange.com/techorange/2017/08/01/ai-came-after-software-and-data/)
 
