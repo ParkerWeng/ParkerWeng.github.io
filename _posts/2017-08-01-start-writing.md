@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parker Weng, Launches Site"
+title: "Parker Weng, First daily news"
 date: 2017-08-01
 ---
 Technology, E-commerce, and Social media
